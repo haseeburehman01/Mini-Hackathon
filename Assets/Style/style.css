@@ -1,1 +1,113 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #f5ebdc;
+}
 
+body a h1{
+    color: #502314;
+}
+
+.icon i {
+    font-size: 20px;
+}
+
+.nav-box {
+    width: 100%;
+    height: 100px;
+    border-bottom: 1px solid #b9b9b9;
+}
+
+.btn-one {
+    background-color: #d62300;
+    border: 1px solid #000;
+    padding:10px;
+    border-radius: 40px;
+    color: #fff;
+}
+
+.btn-two {
+    background-color: #502314;
+    border: 1px solid;
+    padding:10px;
+    border-radius: 40px;
+    color: #fff;
+}
+
+.logo img {
+    margin-left: 120px;
+}
+
+.trans {
+    background: transparent;
+} 
+
+.icon-two i {
+    font-size: 20px;
+    color: #502314;
+}
+
+.icon-two {
+    margin-top: 15px;
+}
+
+.btn-secttion {
+    background-color: #d62300;
+    border: 1px solid #fff;
+    width: 200px;
+    height: 50px;
+    border-radius: 50px;
+}
+
+.btn-secttion-two {
+    background-color: #fff;
+    border: 1px solid black;
+    width: 200px;
+    height: 50px;
+    border-radius: 50px;
+}
+
+.text-margin {
+    margin-top: 130px;
+}
+
+.text-margin-one {
+    margin-top: 80px;
+}
+
+.text-large {
+    font-size: 80px;
+}
+
+.card-start {
+    width: 540px;
+    height: 500px;
+    background-color: #fff;
+    margin-bottom: 50px;
+    border-radius: 10px;
+}
+
+.card-start img {
+    border-radius: 10px 10px;
+}
+
+.section-two {
+    display: flex;
+    flex-direction: row;
+    padding: 3rem 6%;
+    gap: 1.4rem;
+}
+
+.bd-gary-one {
+    height: 400px;
+    width: 100%;
+    background-color: #ebe2d3;
+}
+
+.color-box {
+    width: 100%;
+    height: 60px;
+    background-color: #502314;
+    color: #fff;
+}
